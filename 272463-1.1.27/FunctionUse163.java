@@ -1,0 +1,6 @@
+import com.alibaba.fastjson.parser.JSONScanner;
+public class FunctionUse163 {
+public void funcUse() {
+JSONScanner jsonscanner = new JSONScanner();
+}
+}
